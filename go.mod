@@ -1,4 +1,4 @@
-module github.com/konveyor/tackle2-addon-container-advisor
+module github.com/jaydipgabani/tackle2-addon-container-advisor
 
 go 1.18
 
